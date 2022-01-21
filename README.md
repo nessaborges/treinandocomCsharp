@@ -1,2 +1,2 @@
 # Treinando com Csharp 💜
-Fundamentals Csharp, Course by Udemy.
+Logic with C#, refresh mind.
