@@ -1,2 +1,2 @@
-# treinando com Csharp
+# Treinando com Csharp 💜
 Fundamentals Csharp
